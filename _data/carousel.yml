@@ -1,9 +1,6 @@
 # index首页 - 图片轮播
-- img: /img/carousel/carousel_3.jpg
-  url: http://www.baidu.com
-- img: /img/carousel/carousel_4.jpg
-  url: http://www.baidu.com
-- img: /img/carousel/carousel_3.jpg
-  url: http://www.baidu.com
-- img: /img/carousel/carousel_4.jpg
-  url: http://www.baidu.com
+- img: /img/carousel/hdp-1.png
+  url: https://cdn-dev.36b.me/current/gjqt/article/publish/2015/12/4.html
+- img: /img/carousel/hdp-2.jpg
+  url: https://cdn-dev.36b.me/current/gjqt/article/news/2015/12/news.html
+
