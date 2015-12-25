@@ -1,7 +1,7 @@
 # index首页 - 广告位图片
 # ps: 为了不影响页面布局，本配置项如果数量大于2，将仅展示前2条内容
 - img: /img/resource/position/gg-1.jpg
-  url: https://dev.36b.me/196/gjqt/features/2015/12/103.html
+  url: https://dev.36b.me/current/gjqt/features/2015/12/103.html
 - img: /img/resource/position/gg-2.jpg
-  url: https://dev.36b.me/196/gjqt/features/2015/12/101.html
+  url: https://dev.36b.me/current/gjqt/features/2015/12/101.html
 
